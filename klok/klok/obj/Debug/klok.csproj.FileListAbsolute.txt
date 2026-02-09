@@ -1,0 +1,10 @@
+C:\Users\giova\source\repos\klok\klok\bin\Debug\klok.exe.config
+C:\Users\giova\source\repos\klok\klok\bin\Debug\klok.exe
+C:\Users\giova\source\repos\klok\klok\bin\Debug\klok.pdb
+C:\Users\giova\source\repos\klok\klok\obj\Debug\klok.csproj.AssemblyReference.cache
+C:\Users\giova\source\repos\klok\klok\obj\Debug\klok.Form1.resources
+C:\Users\giova\source\repos\klok\klok\obj\Debug\klok.Properties.Resources.resources
+C:\Users\giova\source\repos\klok\klok\obj\Debug\klok.csproj.GenerateResource.cache
+C:\Users\giova\source\repos\klok\klok\obj\Debug\klok.csproj.CoreCompileInputs.cache
+C:\Users\giova\source\repos\klok\klok\obj\Debug\klok.exe
+C:\Users\giova\source\repos\klok\klok\obj\Debug\klok.pdb
